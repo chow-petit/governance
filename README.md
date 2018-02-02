@@ -1,5 +1,5 @@
 # Governance
-Our R&amp;D on governance. Inspired by aspects of Holacracy with adapted aspects.
+Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacracy.org/how-it-works/), with adapted aspects.
 
 ### Grouped lists of elements
 #### Information Flow
