@@ -2,7 +2,7 @@
 Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacracy.org/how-it-works/), with adapted aspects.
 
 ### Grouped lists of elements:
-#### Information Flow
+#### Information flow
 - Open information flow
 - Meeting best practices
 - Physical spaces
@@ -26,18 +26,17 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Safe and supportive environment
 - Divergence resolution protocols
 
-#### Commons equilibrium and Organizational patterns
+#### Commons equilibrium and organizational patterns
 - Autonomous teams
 - Meeting best practices
 - Doocracy
 - 
 
 #### Resources network
+- Physical spaces
 - Interfacing (people, organisations, website,...)
-- HR and equilibrium
 - Legal and financial
 - Socio-economics
-
 
 ### Full list of elements (in no particular order):
 - Cognitive load management
