@@ -1,8 +1,8 @@
-# governance
-Our R&amp;D on governance.
+# Governance
+Our R&amp;D on governance. Inspired by aspects of Holacracy with adapted aspects.
 
-#### Grouped lists of elements
-##### Information Flow
+### Grouped lists of elements
+#### Information Flow
 - Open information flow
 - Meeting best practices
 - Physical spaces
@@ -15,7 +15,7 @@ Our R&amp;D on governance.
 - Duties of transparency, processing, prioritisation, connection.
 - Interfacing
 
-#### Full list of elements (in no particular order):
+### Full list of elements (in no particular order):
 - Cognitive load management
 - Onboarding UX
 - Autonomous teams
