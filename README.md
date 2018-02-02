@@ -1,5 +1,5 @@
 # Governance
-Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacracy.org/how-it-works/), with adaptation.
+Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacracy.org/how-it-works/), with adapted elements.
 
 ### Grouped lists of elements:
 #### Information flow
@@ -46,7 +46,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Duty of connection
 - Cognitive load management
 - Onboarding UX
-- Any individual can take a decision if consulted meaningfully affected people & experts
+- Any individual can take a decision if consulted by meaningfully affected people & experts
 - Safe and supportive environment
 - Physical spaces
 - Reciprocities
@@ -70,7 +70,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Cognitive load management
 - Onboarding UX
 - Autonomous teams
-- Any individual can take a decision if consulted meaningfully affected people & experts
+- Any individual can take a decision if consulted by meaningfully affected people & experts
 - Open information flow
 - Divergence resolution protocols
 - Self-management
