@@ -14,11 +14,14 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Modularity and reusability
 - Duties of transparency, processing, prioritisation, connection.
 - Interfacing
+- Storytelling
+- Adaptive learning (p2p, proactive empathy, etc)
+- Physical spaces
+- Reciprocities
 
 #### Personal path
 - Personal development
 - Pupose, domain and accountability
-- P2P learning
 - Lifecaring
 - Cognitive load management
 - Self-management
@@ -27,6 +30,11 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Divergence resolution protocols
 - Storytelling
 - Proactive empathy
+- Onboarding UX
+- Adaptive learning (p2p, proactive empathy, etc)
+- Physical spaces
+- Reciprocities
+- Interfacing
 
 #### Commons equilibrium and organizational patterns
 - Autonomous teams
@@ -38,6 +46,15 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Duty of connection
 - Cognitive load management
 - Onboarding UX
+- Any individual can take a decision if consulted meaningfully affected people & experts
+- Safe and supportive environment
+- Physical spaces
+- Reciprocities
+- Commons
+- Purpose, domain, accountability.
+- HR and equilibrium
+- Interfacing
+- Anchor team (How can I help you?)
 
 #### Resources network
 - Physical spaces
@@ -46,6 +63,8 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Interfacing (people, organisations, website,...)
 - Legal and financial
 - Socio-economics
+- Reciprocities
+- Interfacing
 
 ### Full list of elements (in no particular order):
 - Cognitive load management
