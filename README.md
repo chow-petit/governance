@@ -25,15 +25,22 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Reciprocities
 - Safe and supportive environment
 - Divergence resolution protocols
+- Storytelling
+- Proactive empathy
 
 #### Commons equilibrium and organizational patterns
 - Autonomous teams
 - Meeting best practices
 - Doocracy
-- 
+- Modularity and reuseability
+- TILIOS (third place open source network in france)
+- Adaptive learning (p2p, proactive empathy, etc)
+- Duty of connection
 
 #### Resources network
 - Physical spaces
+- Reflexive spaces
+- Anchor team (How can I help you?)
 - Interfacing (people, organisations, website,...)
 - Legal and financial
 - Socio-economics
@@ -49,7 +56,8 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Self-management
 - Safe and supportive environment
 - Reflexive spaces
-- Story telling
+- Storytelling
+- Adaptive learning (p2p, proactive empathy, etc)
 - Meeting best practices
 - Physical spaces
 - Personal development
