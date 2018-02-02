@@ -51,7 +51,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Cognitive load management
 - Onboarding UX
 - Autonomous teams
-- Any individual can take a decision if Mconsulted meaningfully affected people & experts
+- Any individual can take a decision if consulted meaningfully affected people & experts
 - Open information flow
 - Divergence resolution protocols
 - Self-management
