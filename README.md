@@ -1,7 +1,7 @@
 # Governance
 Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacracy.org/how-it-works/), with adapted aspects.
 
-### Grouped lists of elements
+### Grouped lists of elements:
 #### Information Flow
 - Open information flow
 - Meeting best practices
@@ -14,6 +14,30 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Modularity and reusability
 - Duties of transparency, processing, prioritisation, connection.
 - Interfacing
+
+#### Personal path
+- Personal development
+- Pupose, domain and accountability
+- P2P learning
+- Lifecaring
+- Cognitive load management
+- Self-management
+- Reciprocities
+- Safe and supportive environment
+- Divergence resolution protocols
+
+#### Commons equilibrium and Organizational patterns
+- Autonomous teams
+- Meeting best practices
+- Doocracy
+- 
+
+#### Resources network
+- Interfacing (people, organisations, website,...)
+- HR and equilibrium
+- Legal and financial
+- Socio-economics
+
 
 ### Full list of elements (in no particular order):
 - Cognitive load management
@@ -35,7 +59,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Peer to peer learning
 - Doocracy
 - Purpose, domain, accountability.
-- HR, equilibrium
+- HR and equilibrium
 - Interfacing (people, organisations, website,...)
 - Socio-economics
 - Legal and financial
