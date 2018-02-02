@@ -36,6 +36,8 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - TILIOS (third place open source network in france)
 - Adaptive learning (p2p, proactive empathy, etc)
 - Duty of connection
+- Cognitive load management
+- Onboarding UX
 
 #### Resources network
 - Physical spaces
