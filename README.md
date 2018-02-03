@@ -34,7 +34,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Integrative decision making
 - Physical spaces
 - Reciprocities
-- Stygmergy
+- Stigmergy
 - Commons
 - Purpose, domain, accountability.
 - HR and equilibrium
