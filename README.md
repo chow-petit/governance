@@ -3,7 +3,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 
 ### Grouped lists of elements:
 #### Information flow
-- Open information flow, Duties of transparency, processing, prioritisation, connection
+- Open information flow, Duties of transparency, Processing, Prioritisation, Connection
 - Time well spent, Cognitive load management
 - UX, Accessibility, Interfacing, Onboarding, Interaction design
 - Connectome, Standards and P2P norms, Modularity and reusability
@@ -14,7 +14,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Personal development, Personal model development, Projects development
 - Time well spent, Cognitive load management
 - Reciprocities, Adaptive learning (p2p, proactive empathy, etc), Storytelling
-- Self-management, Purpose, domain and accountability
+- Self-management, Purpose, Domain and accountability
 - Lifecaring, Physical spaces
 - Safe and supportive environment, Divergence resolution protocols, Proactive empathy
 - UX, Accessibility, Interfacing, Onboarding, Interaction design
