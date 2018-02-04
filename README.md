@@ -14,7 +14,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Personal development, Personal model development, Projects development
 - Time well spent, Cognitive load management
 - Reciprocities, Adaptive learning (p2p, proactive empathy, etc), Storytelling
-- Self-management, Purpose, domain and accountability
+- Self-management, Purpose, Domain and Accountability
 - Lifecaring, Physical spaces
 - Safe and supportive environment, Divergence resolution protocols, Proactive empathy
 - UX, Accessibility, Interfacing, Onboarding, Interaction design
