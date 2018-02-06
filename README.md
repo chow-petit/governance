@@ -80,6 +80,8 @@ Reflexive spaces
 #### Legal structures
 #### Budgets
 #### Immaterial assets
+#### Time
+#### Cognition
 #### Contacts
 #### Data & Code
 #### Documentation
