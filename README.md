@@ -87,10 +87,8 @@ Reflexive spaces
 #### Interfaces
 #### Reciprocities
 
+### COMMONS EQUILIBRIUM AND ORGANISATIONAL PATTERNS
 
-
-## Grouped lists of elements:
-#### Commons equilibrium and organizational patterns
 - Autonomous teams
 - Anchor team (How can I help you?)
 - Meeting best practices
