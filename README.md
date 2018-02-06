@@ -1,7 +1,6 @@
 # Governance
 Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacracy.org/how-it-works/), with adapted elements.
 
-## Curated grouped elements:
 ### OPEN & RESPONSIBLE INFORMATION FLOW
 
 #### Accessibility and good interaction design
@@ -70,6 +69,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 * Engagement, goal setting and responsibility
 * Adaptive learning and mentorship
 * Reciprocities reliability and enforcement
+* Right to recognition and support
 
 
 ### RESOURCES NETWORK
@@ -89,8 +89,12 @@ Reflexive spaces
 
 ### COMMONS EQUILIBRIUM AND ORGANISATIONAL PATTERNS
 
-- Autonomous teams
-- Anchor team (How can I help you?)
+#### Autonomous teams
+
+#### Doocracy
+Any individual can take a decision if consulted by meaningfully affected people & experts
+
+#### Anchor team (How can I help you?)
 - Meeting best practices
 - Modularity and reuseability
 - TILIOS (third place open source network in france)
@@ -98,7 +102,6 @@ Reflexive spaces
 - Duty of connection
 - Cognitive load management
 - Onboarding UX
-- Doocracy, Any individual can take a decision if consulted by meaningfully affected people & experts
 - Safe and supportive environment
 - Integrative decision making
 - Physical spaces
