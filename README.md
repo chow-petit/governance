@@ -18,6 +18,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 * Transparency
 * Connections
 * Processes and practices
+* Diversity of languages and angles
 
 #### Reciprocity and knowledge peering
 * Reciprocities
