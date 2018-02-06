@@ -72,24 +72,24 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 * Reciprocities reliability and enforcement
 
 
+### RESOURCES NETWORK
+
+#### Physical spaces
+Reflexive spaces
+#### Anchor teams
+#### Legal structures
+#### Budgets
+#### Immaterial assets
+#### Contacts
+#### Data & Code
+#### Documentation
+#### Socio-economical status
+#### Interfaces
+#### Reciprocities
+
+
+
 ## Grouped lists of elements:
-#### Information flow
-- Open information flow, Duties of Transparency, Processing, Prioritisation, Connection
-- Time well spent, Cognitive load management
-- UX, Accessibility, Interfacing, Onboarding, Interaction design
-- Connectome, Standards and P2P norms, Modularity and reusability
-- Reciprocities, Adaptive learning (p2p, proactive empathy, etc), Storytelling
-- Meeting & best practices, Physical spaces, Commons, Diplomacy
-
-#### Personal path
-- Personal development, Personal model development, Projects development
-- Time well spent, Cognitive load management
-- Reciprocities, Adaptive learning (p2p, proactive empathy, etc), Storytelling
-- Self-management, Purpose, Domain and Accountability
-- Lifecaring, Physical spaces
-- Safe and supportive environment, Divergence resolution protocols, Proactive empathy
-- UX, Accessibility, Interfacing, Onboarding, Interaction design
-
 #### Commons equilibrium and organizational patterns
 - Autonomous teams
 - Anchor team (How can I help you?)
@@ -110,14 +110,3 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 - Purpose, domain, accountability.
 - HR and equilibrium
 - Interfacing
-
-#### Resources network
-- Physical spaces
-- Reflexive spaces
-- Anchor team (How can I help you?)
-- Interfacing (people, organisations, website,...)
-- Legal and financial
-- Socio-economics
-- Reciprocities
-- Interfacing
-- Brands
