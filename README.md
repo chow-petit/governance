@@ -26,13 +26,12 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 * Personal storytelling
 * Skill acquisition and mentoring
 
-#### Connectome and information architecture
+#### Information architecture
 * Data, standards and norms
 * Technical connections with the environment
 * Physical process of information
 * Knowledge, curation and intelligence
-* Information Systems
-
+* Information Systems and Connectome
 
 ### PERSONAL PATH AND LIFECARING
 
@@ -43,7 +42,8 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
   * Right to emancipation through doing
 * Access to physical and digital spaces
 
-#### Onboarding and time well spent
+#### Time well spent
+* Onboarding
 * Cognitive load management
 * Adapting complexity
 * UX and accessibility
@@ -51,23 +51,24 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
   * Interaction design
 * Right and duty of autonomy in project development and experimentation
 
-#### Self-governance and community  - “One for all, all for one”
+#### Self-governance & Community  - “One for all, all for one”
 * Duty of care
 * Compassion and active listening
 * Storytelling “Sharing my story”
 * Freedom of movement
 * Portability of initiatives
-* Right to do “Doocracy”
+* Right to do - “Doocracy”
 * Right to fork
 
 #### Self-management, responsibility and accountability
-* Purpose and domain
+* Purpose, roles and domain
 * Duty of transparent and diversified information
 * Right to connections
+* Building resilience
 
 #### Right to fulfillment of personal objectives
-* Documentation
-* Engagement, goal setting and responsibility
+* Personal records and goals settings
+* Engagement & Documentation
 * Adaptive learning and mentorship
 * Reciprocities reliability and enforcement
 * Right to recognition and support
