@@ -97,7 +97,6 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 * Modularity and reusability
 * Reciprocities
 
-
 * Stigmergy
 
 
