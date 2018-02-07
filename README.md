@@ -4,7 +4,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 ### OPEN & RESPONSIBLE INFORMATION FLOW
 
 #### Accessibility and good interaction design
-* Onboarding
+* Onboarding & Appropriability
 * Time well spent
 * Cognitive load management
 * UX and Interfaces
