@@ -97,8 +97,6 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 * Modularity and reusability
 * Reciprocities
 
-* Stigmergy
-
 
 ### RESOURCES NETWORK
 
@@ -113,6 +111,5 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 * Socio-economic status
 * Budgets
 * Immaterial assets
-
 * Data & Code
 * Documentation
