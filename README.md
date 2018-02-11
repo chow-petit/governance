@@ -74,7 +74,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 * Right to recognition and support
 
 
-### COMMONS EQUILIBRIUM AND ORGANIZATIONAL PATTERNS
+### COMMONS EQUILIBRIUM AND ORGANIZATION
 
 #### Onboarding and UX
 * Anchor team (How can I help you?)
