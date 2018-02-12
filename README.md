@@ -76,11 +76,49 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 
 ### COMMONS EQUILIBRIUM AND ORGANIZATION
 
+**New categories**
+Teams organisation
+Roles and responsibilities
+Decision making
+Equilibrium processes
+Commons building
+Interaction design
+Resilience and transmission
+
 #### Onboarding and UX
 * Anchor team (How can I help you?)
 * HR and equilibrium
 * Cognitive load management
 * Physical spaces and interfacing
+
+#### Equilibrium Processes
+* Human resources and equilibrium
+* Meeting best practices
+* Stigmergy
+
+#### Onboarding, community network and UX
+* Anchor team (How can I help you?)
+* Cognitive load management
+* TILIOS (third place open source network in France)
+
+
+#### Safe and supportive environment
+* Any individual can take a decision if consulted by meaningfully affected people & experts
+* Integrative decision making
+* Doocracy
+* Duty of connection
+* The commons
+* Purpose, domain, accountability
+
+#### Adaptive learning (p2p, proactive empathy, etc)
+* Autonomous teams
+* Modularity and reusability
+* Reciprocities
+
+#### Equilibrium Processes
+* Human resources and equilibrium
+* Meeting best practices
+* Stigmergy
 
 #### Safe and supportive environment
 * TILIOS (third place open source network in france)
