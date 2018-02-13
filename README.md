@@ -1,153 +1,38 @@
 # Governance
 Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacracy.org/how-it-works/), with adapted elements.
 
-### OPEN & RESPONSIBLE INFORMATION FLOW
+# "Adaptocracy" - Our proposed governance model
 
-#### Accessibility and good interaction design
-* Onboarding & Appropriability
-* Time well spent
-* Cognitive load management
-* UX and Interfaces
-  * Processing
-  * Prioritisation
-* Curated tools and data
-* Physical and reflexive spaces
+### Table of Contents
+#### I - Open & Responsible Information Flow
+    1. Accessiblity and Good interaction design
+    2. Data-as-a-common
+    3. Curated tools and processes
+    4. Open intelligence
+    5. Time well spent
+#### II - Lifecaring & Personal Path
+    6. Right to fulfillment
+    7. Safe and supportive environment
+    8. “One for all, all for one”
+    9. Duty of care
+    10. Self-governance
+#### III - Organisation & Equilibrium
+    11. Autonomous teams organisation
+    12. Divergence resolution protocols and decision making
+    13. Commons building, equilibrium and resilience
+    14. Roles, reciprocities and responsibilities
+    15. Values, codes and ethics
+#### IV - Resources Network
+    16. Peering network
+    17. Spaces and places
+    18. Material resources as a common
+    19. Immaterial resources as a common
+    20. Sustainability
+#### V - TILIOS - "Tiers-Lieux Libres et Open Source"
+    21. Social configuration
+    22. Common patrimony
+    23. Free appropriation
+    24. Emancipation through doing
+    25. Resilience and modularity
 
-#### Adaptive design for resilience and reusability
-* Modularity
-* Transparency
-* Connections
-* Processes and practices
-* Diversity of languages and angles
-
-#### Reciprocity and knowledge peering
-* Reciprocities
-* Adaptive learning (p2p, proactive empathy, etc)
-* Personal storytelling
-* Skill acquisition and mentoring
-
-#### Information architecture
-* Data, standards and norms
-* Technical connections with the environment
-* Physical process of information
-* Knowledge, curation and intelligence
-* Information Systems and Connectome
-
-### PERSONAL PATH AND LIFECARING
-
-#### Safe and supportive environment
-* Mutual respect, diplomacy and proactive empathy
-  * Divergence resolution protocols
-  * Right to re-appropriate
-  * Right to emancipation through doing
-* Access to physical and digital spaces
-
-#### Time well spent
-* Onboarding
-* Cognitive load management
-* Adapting complexity
-* UX and accessibility
-  * Interfacing
-  * Interaction design
-* Right and duty of autonomy in project development and experimentation
-
-#### Self-governance & Community  - “One for all, all for one”
-* Duty of care
-* Compassion and active listening
-* Storytelling “Sharing my story”
-* Freedom of movement
-* Portability of initiatives
-* Right to do - “Doocracy”
-* Right to fork
-
-#### Self-management, responsibility and accountability
-* Purpose, roles and domain
-* Duty of transparent and diversified information
-* Right to connections
-* Building resilience
-
-#### Right to fulfillment of personal objectives
-* Personal records and goals settings
-* Engagement & Documentation
-* Adaptive learning and mentorship
-* Reciprocities reliability and enforcement
-* Right to recognition and support
-
-
-### COMMONS EQUILIBRIUM AND ORGANIZATION
-
-**New categories**
-Teams organisation
-Roles and responsibilities
-Decision making
-Equilibrium processes
-Commons building
-Interaction design
-Resilience and transmission
-
-#### Onboarding and UX
-* Anchor team (How can I help you?)
-* HR and equilibrium
-* Cognitive load management
-* Physical spaces and interfacing
-
-#### Equilibrium Processes
-* Human resources and equilibrium
-* Meeting best practices
-* Stigmergy
-
-#### Onboarding, community network and UX
-* Anchor team (How can I help you?)
-* Cognitive load management
-* TILIOS (third place open source network in France)
-
-
-#### Safe and supportive environment
-* Any individual can take a decision if consulted by meaningfully affected people & experts
-* Integrative decision making
-* Doocracy
-* Duty of connection
-* The commons
-* Purpose, domain, accountability
-
-#### Adaptive learning (p2p, proactive empathy, etc)
-* Autonomous teams
-* Modularity and reusability
-* Reciprocities
-
-#### Equilibrium Processes
-* Human resources and equilibrium
-* Meeting best practices
-* Stigmergy
-
-#### Safe and supportive environment
-* TILIOS (third place open source network in france)
-* Meeting best practices
-* Any individual can take a decision if consulted by meaningfully affected people & experts
-* Integrative decision making
-* Doocracy
-* Duty of connection
-* The commons
-* Purpose, domain, accountability
-
-#### Adaptive learning (p2p, proactive empathy, etc)
-* Autonomous teams
-* Modularity and reusability
-* Reciprocities
-
-
-### RESOURCES NETWORK
-
-#### Onboarding
-* Welcoming anchor teams
-* Physical and reflexive spaces
-* Interfaces
-
-#### Contacts and reciprocities
-
-* Legal structures
-* Socio-economic status
-* Budgets
-* Immaterial assets
-* Data & Code
-* Documentation
+https://pad.lamyne.org/design_de_gouvernance?both
