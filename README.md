@@ -17,10 +17,10 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
     9. Duty of care
     10. Self-governance
 #### III - Organisation & Equilibrium
-    11. Autonomous teams organisation
+    11. Autonomous teams organisation & Roles
     12. Decision making and Divergence resolution protocols
-    13. Commons building, equilibrium and resilience
-    14. Roles, reciprocities and responsibilities
+    13. Commons building, equilibrium, responsibility and resilience
+    14. Reciprocity agreements
     15. Values, codes and ethics
 #### IV - Resources Network
     16. Peering network
