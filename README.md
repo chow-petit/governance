@@ -35,5 +35,6 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
     24. Emancipation through doing
     25. Resilience and modularity
 
-https://pad.lamyne.org/design_de_gouvernance?both
-https://www.virtual-assembly.org/code-social/
+### Reference links
+[Our governance design planning notes](https://pad.lamyne.org/design_de_gouvernance?both)
+[Social Code - Virtual Assembly](https://www.virtual-assembly.org/code-social/)
