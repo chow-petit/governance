@@ -5,7 +5,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 
 ### Table of Contents
 #### I - Open & Responsible Information Flow
-    1. Accessiblity and Good interaction design
+    1. Accessibility and Good interaction design
     2. Data-as-a-common
     3. Curated tools and processes
     4. Open intelligence
@@ -28,7 +28,7 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
     18. Material resources as a common
     19. Immaterial resources as a common
     20. Sustainability
-#### V - TILIOS - "Tiers-Lieux Libres et Open Source"
+#### V - "Tiers-Lieux Libres et Open Source" - TILIOS
     21. Social configuration
     22. Common patrimony
     23. Free appropriation
