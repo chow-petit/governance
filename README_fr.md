@@ -7,7 +7,7 @@
     3. Curation d'outils et de processus
     4. "Open Intelligence" - Veille ouverte
     5. "Time well spent" - Le temps bien utilisé
-#### II - Lifecaring & Le chemin personnel
+#### II - Lifecaring & Chemin personnel
     6. Le droit à l'épanouissement
     7. Un environnement sûr et favorable
     8. "Un pour tous, tous pour un"
