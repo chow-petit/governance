@@ -1,6 +1,5 @@
 # "Adaptocratie" - Notre modèle de gouvernance proposé
 
-:::
 ### Table des matières
 #### I - Flux d'information ouvert et responsable
     1. Accessibilité et bon design d'interaction
@@ -32,4 +31,3 @@
     23. L'appropriation libre
     24. Une émancipation en faisant
     25. La résilience et la modularité
-:::
