@@ -37,4 +37,4 @@ Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacr
 
 ### Reference links
 * [Our governance design planning notes](https://pad.lamyne.org/design_de_gouvernance?both)
-* [Social code - Virtual Assembly](https://www.virtual-assembly.org/code-social/)
+* [Social code - via Virtual Assembly, developing the commons in transition](https://www.virtual-assembly.org/code-social/)
