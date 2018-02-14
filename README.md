@@ -1,5 +1,5 @@
 # Governance
-Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacracy.org/how-it-works/), with adapted elements.
+Our R&amp;D on governance. Inspired by aspects of [Holacracy](https://www.holacracy.org/how-it-works/), as well as [Sociocracy](http://www.sociocracy.info/), with adapted elements.
 
 # "Adaptocracy" - Our proposed governance model
 
