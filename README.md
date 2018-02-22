@@ -43,7 +43,6 @@ This existence at the edge of chaos is reflective of the realities of our world,
     23. Free appropriation
     24. Emancipation through doing
     25. Resilience and modularity
-:::
 
 ---
 
