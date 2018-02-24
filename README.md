@@ -14,7 +14,7 @@ This existence at the edge of chaos is reflective of the realities of our world,
 
 ### Table of Contents
 #### I - Open & Responsible Information Flow
-    1. Good interaction design: accessibility, usability & inclusion
+    1. Accessibility, usability & inclusion
     2. Data-as-a-commons
     3. Curated tools and processes
     4. Open Intelligence & Documentation
