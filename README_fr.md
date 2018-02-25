@@ -1,4 +1,13 @@
-# "Adaptocratie" - Notre modèle de gouvernance proposé
+# Gouvernance par Adaptocracy
+_R&D sur un nouveau modèle de gouvernance appelé Adaptocracy. Inspiré par des aspects de l'Holacracy, ainsi que la Sociocracy, et les éléments des concepts de Communs et Ouvert._
+
+L'adaptocratie est un modèle de gouvernance construit comme un système adaptatif complexe, capable de s'adapter et d'être utilisé au niveau individuel, et également capable de former des structures résilientes.
+
+Le chaos est naturellement généré par les trajectoires et les libertés individuels.
+
+L'ordre peut émerger et être consolidé à partir des interactions entre les agents, les ressources, les besoins et les valeurs qui sont partagées, et au fur et à mesure des décisions qui sont prises.
+
+Cette existence à la lisière du chaos est le reflet des réalités de notre monde, de nos sociétés et de la vie elle-même - complexe, dynamique et pourtant, en quelque sorte, durable.
 
 ### Table des matières
 #### I - Flux d'information ouvert et responsable
